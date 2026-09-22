@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+*.env
+
+# Minecraft world and local server data
+docker/minecraft/data/
+
+# Logs
+*.log
+logs/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
